@@ -1,0 +1,14 @@
+.row h1{
+    text-align: center;
+    margin-top: 1%;
+    color: #237ab4;
+    width: 100%;
+    text-align: center;
+}
+.row img{
+    height: 400px;
+    width: 100%;
+}
+.row img:hover{
+    opacity: 0.9;
+}
